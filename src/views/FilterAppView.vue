@@ -74,7 +74,7 @@ export default {
   data() {
     return {
       filterText: '',
-      filterAgeText: '', // Changed from filterAge to filterAgeText
+      filterAgeText: '',
       sortOption: 'id',
       pageSize: 10,
       pageSizes: [5, 10, 15, 20],

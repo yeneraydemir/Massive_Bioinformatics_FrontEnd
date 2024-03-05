@@ -1,8 +1,8 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
-</script>
 
+</script>
 <template>
   <header>
     <img class="logo" src="https://massivebioinformatics.com/wp-content/uploads/2023/03/MASSIVE-BIOINFORMATICS-LOGO-VEKTO_REL-siyah.png" width="125" height="125" />
